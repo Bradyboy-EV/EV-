@@ -119,13 +119,3 @@ function results = simVehicle(vehicle,cycle,grade)
     prevSOC = results.batterySOC(k);
     prevDistance = results.distance(k);
   end
-
-
-
-
-
-
-
-
-
-
